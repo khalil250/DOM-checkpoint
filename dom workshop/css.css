@@ -1,0 +1,31 @@
+#logo{
+    color: green;
+    font-size: 30px;
+    font-weight: 500;
+}
+#cloud{
+    background-color: #333!important;
+}
+#sun{
+    color: white;
+}
+#moon{
+    background-color: #333!important;
+}
+#hollow{
+    color: white;
+}
+h1{
+    color: white;
+}
+#totalprice{
+    color: white;
+}
+
+
+
+
+.play{
+display: flex;
+justify-content: space-evenly;
+}
